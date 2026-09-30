@@ -32,8 +32,4 @@ An Example:
   "course": "Mathematics"
 }
 
-Status codes used
-200 OK, 201 Created
-400 invalid or missing data
-404 student or route not found
-409 email already exists
+
